@@ -1,8 +1,12 @@
 - 👋 Hi, I’m KAUSHAL JHA
 - 👀 I’m interested in playing badminton
+
+
 - 🌱 I’m currently learning 
-- 1.dsa (JAVA) 
-- 2.JAVASCRIPT  
+- 1. FULL STACK WEB DEV 
+
+
+
 - 📫 How to reach me 
 - 1. insta- kaushal_jha._ 
 - 2. Linkedln-  
