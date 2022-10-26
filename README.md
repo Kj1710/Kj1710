@@ -9,7 +9,7 @@
 
 - 📫 How to reach me 
 - 1. insta- kaushal_jha._ 
-- 2. Linkedln-  
+- 2. Linkedln-KAUSHAL JHA
 - 
 
 <!---
